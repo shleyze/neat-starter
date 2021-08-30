@@ -1,5 +1,5 @@
 items:
   - text: Menu One
-    url: "#"
+    url: Первая
   - text: Blog
     url: /blog
