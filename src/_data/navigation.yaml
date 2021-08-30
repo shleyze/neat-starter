@@ -1,5 +1,7 @@
 items:
   - text: Menu One
     url: Первая
+    page: Первая
   - text: Blog
     url: Вторая
+    page: Вторая
